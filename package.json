@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/como-mejoran-los",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a como-mejoran-los",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/como-mejoran-los.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/relojes-inteligentes-rutina-diaria/"
+    },
+    "homepage": "https://isproto.com/relojes-inteligentes-rutina-diaria/"
+}
